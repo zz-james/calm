@@ -1,2 +1,2 @@
 # calm
-source code for the calm website
+source code for the calm website.
