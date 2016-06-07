@@ -1,0 +1,8 @@
+[01-Apr-2016 06:47:00 UTC] PHP Fatal error:  Call to undefined function get_locale() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_init_mce.php on line 28
+[01-Apr-2016 06:47:01 UTC] PHP Fatal error:  Call to undefined function get_locale() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_init_mce.php on line 28
+[01-Apr-2016 06:47:01 UTC] PHP Fatal error:  Call to undefined function trailingslashit() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_init_strength_meter.php on line 1
+[01-Apr-2016 06:47:01 UTC] PHP Fatal error:  Call to undefined function trailingslashit() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_init_strength_meter.php on line 1
+[01-Apr-2016 06:47:02 UTC] PHP Warning:  constant(): Couldn't find constant VHOST in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_mu_activation.php on line 13
+[01-Apr-2016 06:47:02 UTC] PHP Warning:  constant(): Couldn't find constant VHOST in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_uef_mu_activation.php on line 13
+[01-Apr-2016 06:47:03 UTC] PHP Fatal error:  Call to undefined function is_multisite() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_user_extra_fields.php on line 44
+[01-Apr-2016 06:47:05 UTC] PHP Fatal error:  Call to undefined function is_multisite() in /home/savethemale/public_html/wp-content/plugins/cimy-user-extra-fields/cimy_user_extra_fields.php on line 44
